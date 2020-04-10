@@ -1,0 +1,6 @@
+C:\Users\facu_\source\repos\soluciontp1\tp1\bin\Debug\tp1.dll
+C:\Users\facu_\source\repos\soluciontp1\tp1\bin\Debug\tp1.pdb
+C:\Users\facu_\source\repos\soluciontp1\tp1\obj\Debug\tp1.csprojAssemblyReference.cache
+C:\Users\facu_\source\repos\soluciontp1\tp1\obj\Debug\tp1.csproj.CoreCompileInputs.cache
+C:\Users\facu_\source\repos\soluciontp1\tp1\obj\Debug\tp1.dll
+C:\Users\facu_\source\repos\soluciontp1\tp1\obj\Debug\tp1.pdb
